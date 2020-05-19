@@ -43,14 +43,13 @@ Crie um microsserviço capaz de aceitar solicitações RESTful que recebam como 
 
 ## Dicas
 
-Você pode usar a API do *OpenWeatherMaps* ([https://openweathermap.org] (https://openweathermap.org/)) para buscar dados de temperatura e o *Spotify* ([https://developer.spotify.com] (https://developer.spotify.com/)) para sugerir as músicas da playlist.
+Você pode usar a API do *OpenWeatherMaps* [https://openweathermap.org](https://openweathermap.org/) para buscar dados de temperatura e o *Spotify* [https://developer.spotify.com](https://developer.spotify.com/) para sugerir as músicas da playlist.
 
 
 ## Recomendações
 
 * Utilize C#;
 * Utilize .net core 3.1;
-* Utilize EntityFramework;
 * Utilize docker;
 * Escolha o banco de dados que tem mais afinidade (aqui usamos SQL Server);
 * Utilize boas práticas de codificação, isso será avaliado;
