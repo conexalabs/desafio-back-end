@@ -6,7 +6,7 @@ Se deseja participar do nosso processo seletivo, siga as instruções deste desa
 
 * Nos mande sua resolução em um *pull request* neste repositório.
 
-* Deixe a aplicação disponível publicamente em algum host ([GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/),  [Firebase Hosting](https://firebase.google.com/docs/hosting), [Azure](https://azure.microsoft.com/pt-br/services/app-service/web/), ou qualquer um de sua preferência) para testes. 
+* Deixe a aplicação disponível publicamente em imagem docker em qualquer host. Na descrição do PR passe o link para que consigamos usar sua imagem.
 
 * Por último, envie um email para [renatto.machado@hubconexa.com](mailto:renatto.machado@hubconexa.com) com seu CV anexado e o link da aplicação (se já estiver no processo seletivo, não precisa);
 
@@ -51,12 +51,13 @@ Você pode usar a API do *OpenWeatherMaps* ([https://openweathermap.org] (https:
 * Utilize C#;
 * Utilize .net core 3.1;
 * Utilize EntityFramework;
+* Utilize docker;
 * Escolha o banco de dados que tem mais afinidade (aqui usamos SQL Server);
 * Utilize boas práticas de codificação, isso será avaliado;
 * Mostre que você manja dos paranauê do C#;
 * Código limpo, organizado e documentado (quando necessário);
 * Use e abuse de:
-  * Usabilidade;
+  * SOLID;
   * Criatividade;
   * Performance;
   * Manutenabilidade;
