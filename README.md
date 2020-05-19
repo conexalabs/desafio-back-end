@@ -49,7 +49,7 @@ Você pode usar a API do *[OpenWeatherMaps](https://openweathermap.org)* para bu
 ## Recomendações
 
 * Utilize C#;
-* Utilize .net core 3.1;
+* Utilize .NET Core 3.1;
 * Utilize docker;
 * Utilize boas práticas de codificação, isso será avaliado;
 * Mostre que você manja dos paranauê do C#;
