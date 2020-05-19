@@ -51,7 +51,6 @@ Você pode usar a API do *OpenWeatherMaps* [https://openweathermap.org](https://
 * Utilize C#;
 * Utilize .net core 3.1;
 * Utilize docker;
-* Escolha o banco de dados que tem mais afinidade (aqui usamos SQL Server);
 * Utilize boas práticas de codificação, isso será avaliado;
 * Mostre que você manja dos paranauê do C#;
 * Código limpo, organizado e documentado (quando necessário);
