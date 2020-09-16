@@ -8,7 +8,7 @@ Se deseja participar do nosso processo seletivo, siga as instruções deste desa
 
 * Deixe a aplicação disponível publicamente em imagem docker em qualquer host. Na descrição do PR passe o link para que consigamos usar sua imagem.
 
-* Por último, envie um email para [renatto.machado@hubconexa.com](mailto:renatto.machado@hubconexa.com) com seu CV anexado e o link da aplicação (se já estiver no processo seletivo, não precisa);
+* Por último, **caso ainda não esteja cadastrado no processo seletivo**, envie um email para [renatto.machado@hubconexa.com](mailto:renatto.machado@hubconexa.com) com seu CV anexado e o link da aplicação (se já estiver no processo seletivo, não precisa);
 
   
 
